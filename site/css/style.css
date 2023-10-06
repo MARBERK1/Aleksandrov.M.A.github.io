@@ -1,4 +1,53 @@
 body {
     color:green;
     font-family: 'Pixelify Sans',Arial,sans-serif cursive;
+    max-width:1600px;
+    background-color: rgb(247, 247, 252);
 }
+.wrapper{
+max-width: 1300px;
+min-height: 200px;
+text-align: center;
+width:80%;
+background-color: blueviolet;
+color: black;
+}
+.header{
+    display:flex;
+    align-items:start;
+    justify-content:space-between;
+}
+.menu_naw{
+    display:flex;
+    
+}
+
+
+/* p */
+/* { */
+    /* color:pink;   */
+/* } */
+/* .nameclass  { */
+
+/* } */
+/* #nameid{ */
+
+/* } */
+/* a,p{ */
+
+/* } */
+/* p a{ */
+    /* color:red; */
+/* } */
+/* p>a{ */
+
+/* } */
+/* p+a{*/ /*строго после p */
+/*  */
+/* } */
+/* p~a{ */
+/*  */
+/* } */
+/* p[]{ */
+/*  */
+/* } */
